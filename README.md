@@ -1,3 +1,3 @@
-# Misión Soporte Técnico 360° — Edición 4
+# Misión Soporte Técnico 360°
 
-Juego web Alfa/Beta para Prácticas Profesionalizantes
+Juego web para Prácticas Profesionalizantes sobre Informática
